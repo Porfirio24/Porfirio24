@@ -7,4 +7,3 @@
 - 🎓 Semestre 2023.1
 - 📚 Gosto de ler no tempo livre
 - 💻 Futuro engenheiro de Software
--->
