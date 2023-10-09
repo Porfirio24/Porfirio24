@@ -24,7 +24,6 @@
  </div>
 
 ##
-
  Minha IDE atual: 
   
    <img aling="center" alt="Porfirio-VsCode" height="30" width="130" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
