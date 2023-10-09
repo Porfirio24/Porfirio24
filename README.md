@@ -12,17 +12,18 @@
 
 <div>
 <a href="https://beacons.ai/Porfirio24">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Porfirio24&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Porfirio24&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>                                         
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Porfirio24&layout=compact&langs=16&theme=dark"/>
 <div>
 
 ##
-
 <img align="center" alt="Porfirio-HTML" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=148&color=currentColor">          
 <img align="center" alt="Porfirio-c" height="30" width="40" src="https://icongr.am/devicon/c-original.svg?size=148&color=currentColor">          
 <img aling="center" alt="Porfirio-github" height="30" width="100" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 <img aling="center" alt="Porfirio-git" height="30" width="80" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
  </div>
+
+##
 
  Minha IDE atual: 
   
