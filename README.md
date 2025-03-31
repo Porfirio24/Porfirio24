@@ -1,42 +1,38 @@
-### Olá, sou Porfirio, sou estutande de tecnologia
+## 👋🏻 Olá, eu sou Porfirio!
 
-- 🔭 Estudante da UFERSA
-- 🌱 Apaixonado por Tecnologia
-- 🎮 Gosto de Jogos
-- 🪐 Acadêmico em Tecnologia da Informação
-- 🎓 Semestre 2023.1
-- 📚 Gosto de ler no tempo livre
-- 💻 Futuro engenheiro de Software
-
- ##
-
-<div>
-<a href="https://beacons.ai/Porfirio24">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Porfirio24&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>                                         
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Porfirio24&layout=compact&langs=16&theme=dark"/>
-<div>
+Seja muito bem-vindo(a) ao meu espaço dedicado à programação e aprendizado, onde tecnologia e informação fazem magia a cada linha de código escrita. 💻✨<br><br>📚 Atualmente, sou estudante de BTI na Universidade Federal Rural do Semi-Árido - (UFERSA) - Pau dos Ferros/RN. 🌵<br><br/>
+🔎 Busco constantemente expandir meu conhecimento a fim de desenvolver soluções criativas e eficientes. Busco colaborar e compartilhar minha jornada na programação, analisando meu progresso para que possa contribuir com a comunidade. <br>
 
 ##
-<img align="center" alt="Porfirio-HTML" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=148&color=currentColor">          
-<img align="center" alt="Porfirio-c" height="30" width="40" src="https://icongr.am/devicon/c-original.svg?size=148&color=currentColor">          
-<img aling="center" alt="Porfirio-github" height="30" width="100" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-<img aling="center" alt="Porfirio-git" height="30" width="80" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
- </div>
+<h1 align=center> 💻 Linguagens: </h1>
+<div style="display: inline_block" align="center"><br>
+<img align="center" alt="Kayc-C" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" />
+<img align="center" alt="Kayc-Js" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />
 
-##
- Minha IDE atual: 
-  
-   <img aling="center" alt="Porfirio-VsCode" height="30" width="130" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-  
- ##
+ </br>
+<h2 align=c
+<h2 align=center> Em processo de Aprendizagem </h2>
+<img align="center" alt="Pitão" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" />
+ <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" />
+<img align="center" alt="Kayc-HTML" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />
+<img align="center" alt="Kayc-CSS" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />
+<img align="center" alt="Django" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" />
+<h1 align=cente
+ 
+<h1 align=center> 📊 Estatìsticas: </h1>
+</br>
+<img src="https://github-readme-stats.vercel.app/api?username=Porfirio24&show_icons=true&hide_border=true&theme=midnight-purple" height="175" alt="GitHub stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&layout=compact&theme=midnight-purple&hide_border=true&username=Porfirio24&hide=jupyter%20notebook,tex,html,css,makefile" height="175" alt="Top languages"/>
+</div>
 
-- As futuras linguagens que pretendo aprender:
-
-<img aling="center" alt="Porfirio-Java" height="30" width="80" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> <img aling="center" alt="Porfirio-Python" height="30" width="80" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> <img aling="center" alt="Porfirio-Js" height="30" width="120" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-
-##
-
-<div>
+ <h1 align=center> 👨‍💻Ferramentas: </h1>
+<div style="display: inline_block" align="center"><br>
+ <img align="center" alt="Kayc-Figma" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/VSCode-Dark.svg" />
+ <img align="center" alt="Kayc-Figma" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" />
+ <img align="center" alt="Kayc-Figma" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Git.svg" />
+</div>
+<h1 align=center> 🌐 Contato: </h1>
+</br>
   <a href="https:https://instagram.com/porfirioneto39?igshid=NzZlODBkYWE4Ng==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:netinholeite2607@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
   
