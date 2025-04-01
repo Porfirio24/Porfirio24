@@ -25,7 +25,7 @@ Seja muito bem-vindo(a) ao meu espaço dedicado à programação e aprendizado, 
 </br>
 <img src="https://github-readme-stats.vercel.app/api?username=Porfirio24&show_icons=true&hide_border=true&theme=midnight-purple" height="175" alt="GitHub stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&layout=compact&theme=midnight-purple&hide_border=true&username=Porfirio24&hide=jupyter%20notebook,tex,html,css,makefile" height="175" alt="Top languages"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Porfirio24&theme=midnight-purple&hide_borde=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Porfirio24&theme=midnight-purple&hide_border=true"/>
 </div>
 
  <h1 align=center> 👨‍💻Ferramentas: </h1>
@@ -35,7 +35,7 @@ Seja muito bem-vindo(a) ao meu espaço dedicado à programação e aprendizado, 
  <img align="center" alt="Kayc-Figma" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Git.svg" />
 </div>
 
-<img align="center" fonte="https://github.com/user-attachments/assets/02c51f9b-950e-4897-8613-80a88b392e63.gif" largura="500"/>
+<img align="center" src="https://github.com/user-attachments/assets/02c51f9b-950e-4897-8613-80a88b392e63.gif" width="500"/>
 
 <h1 align=center> 🌐 Contato: </h1>
 </br>
