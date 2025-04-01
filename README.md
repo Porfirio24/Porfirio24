@@ -8,16 +8,16 @@ Seja muito bem-vindo(a) ao meu espaço dedicado à programação e aprendizado, 
 ##
 <h1 align=center> 💻 Linguagens: </h1>
 <div style="display: inline_block" align="center"><br>
-<img align="center" alt="Kayc-C" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" />
-<img align="center" alt="Kayc-Js" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />
+<img align="center" alt="-C" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" />
+<img align="center" alt="-Js" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />
 
  </br>
 <h2 align=c
 <h2 align=center> Em processo de Aprendizagem </h2>
 <img align="center" alt="Pitão" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" />
  <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" />
-<img align="center" alt="Kayc-HTML" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />
-<img align="center" alt="Kayc-CSS" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />
+<img align="center" alt="-HTML" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />
+<img align="center" alt="-CSS" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />
 <img align="center" alt="Django" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" />
 <h1 align=cente
  
@@ -30,9 +30,9 @@ Seja muito bem-vindo(a) ao meu espaço dedicado à programação e aprendizado, 
 
  <h1 align=center> 👨‍💻Ferramentas: </h1>
 <div style="display: inline_block" align="center"><br>
- <img align="center" alt="Kayc-Figma" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/VSCode-Dark.svg" />
- <img align="center" alt="Kayc-Figma" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" />
- <img align="center" alt="Kayc-Figma" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Git.svg" />
+ <img align="center" alt="-Figma" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/VSCode-Dark.svg" />
+ <img align="center" alt="-Figma" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" />
+ <img align="center" alt="-Figma" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Git.svg" />
 </div>
 </br>
 
@@ -45,7 +45,6 @@ Seja muito bem-vindo(a) ao meu espaço dedicado à programação e aprendizado, 
 <div style="display: inline_block" align="center"><br>
   <a href="https:https://instagram.com/porfirioneto39?igshid=NzZlODBkYWE4Ng==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:netinholeite2607@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
-</br>
- 
 </div>
+</br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=#002ASE&section=header&reversal=false"/>
