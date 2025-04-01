@@ -34,14 +34,18 @@ Seja muito bem-vindo(a) ao meu espaço dedicado à programação e aprendizado, 
  <img align="center" alt="Kayc-Figma" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" />
  <img align="center" alt="Kayc-Figma" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Git.svg" />
 </div>
+</br>
 
-<img align="center" src="https://github.com/user-attachments/assets/02c51f9b-950e-4897-8613-80a88b392e63.gif" width="500"/>
+<div align="center">
+<img src="https://github.com/user-attachments/assets/bb704add-5c43-4783-aad6-6bcfff145363" width="500"/>
+</div>
 
 <h1 align=center> 🌐 Contato: </h1>
 </br>
 <div style="display: inline_block" align="center"><br>
   <a href="https:https://instagram.com/porfirioneto39?igshid=NzZlODBkYWE4Ng==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:netinholeite2607@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
-  
+</br>
+ 
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=#002ASE&section=header&reversal=false"/>
