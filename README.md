@@ -3,7 +3,7 @@
 ## 👋🏻 Olá, eu sou Porfirio!
 
 Seja muito bem-vindo(a) ao meu espaço dedicado à programação e aprendizado, onde tecnologia e informação fazem magia a cada linha de código escrita. 💻✨<br><br>📚 Atualmente, sou estudante de BTI na Universidade Federal Rural do Semi-Árido - (UFERSA) - Pau dos Ferros/RN. 🌵<br><br/>
-🔎 Estou constantemente ampliando meus conhecimentos para desenvolver soluções inteligentes e eficazes. Procuro colaborar e dividir minha experiência na programação, analisando minha evolução para agregar valor à comunidade. <br>
+🔎 Estou constantemente ampliando meus conhecimentos para desenvolver soluções inteligentes e eficazes. Procuro colaborar e dividir minha experiência na programação, analisando minha evolução para agregar valor à comunidade.<br>
 
 ##
 <h1 align=center> 💻 Linguagens: </h1>
