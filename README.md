@@ -12,17 +12,18 @@ Seja muito bem-vindo(a) ao meu espaço dedicado à programação e aprendizado, 
 <img align="center" alt="-Js" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />
 
  </br>
-<h2 align=c
-<h2 align=center> Em processo de Aprendizagem </h2>
+<h2 align=c>
+<h2 align=center> 📖Em processo de Aprendizagem:</h2>
 <img align="center" alt="Pitão" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" />
  <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" />
 <img align="center" alt="-HTML" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />
 <img align="center" alt="-CSS" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />
 <img align="center" alt="Django" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" />
-<h1 align=cente
+<h1 align=cente>
  
 <h1 align=center> 📊 Estatìsticas: </h1>
-</br>
+<div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=Porfirio24&show_icons=true&hide_border=true&theme=midnight-purple" height="175" alt="GitHub stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&layout=compact&theme=midnight-purple&hide_border=true&username=Porfirio24&hide=jupyter%20notebook,tex,html,css,makefile" height="175" alt="Top languages"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Porfirio24&theme=midnight-purple&hide_border=true"/>
